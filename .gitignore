@@ -1,0 +1,13 @@
+﻿server/venv/
+server/.venv/
+server/.venv-new/
+**/__pycache__/
+*.py[cod]
+client/node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.bak

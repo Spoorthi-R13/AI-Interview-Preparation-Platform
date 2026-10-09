@@ -1,0 +1,739 @@
+{
+    "artificial intelligence": {
+      "HR Interview": [
+        {
+          "question": "Tell me about yourself — how your technical background led you to this role.",
+          "answer": "I come from a strong computer science background with a focus on AI/ML. During my studies and projects, I built intelligent systems that combine NLP and deep learning for real-world applications. Recently, I developed an AI Interview Preparation Platform that analyzes candidate answers using NLP and emotion recognition. That project enhanced my technical and communication skills, aligning perfectly with this technical role where innovation and AI integration are valued.",
+          "keypoints": ["computer science background","AI/ML focus","NLP","deep learning","AI Interview Preparation Platform","emotion recognition"]
+        },
+        {
+          "question": "What are your greatest strengths and weaknesses as a developer/engineer?",
+          "answer": "Strengths: Analytical thinking, adaptability to new technologies, and strong debugging ability. Weakness: Earlier I used to spend too much time perfecting small details, but I’ve learned to balance optimization with delivery timelines.",
+          "keypoints": ["analytical thinking","adaptability","debugging ability","perfectionism","time management"]
+        },
+        {
+          "question": "Why are you interested in this company and this role in tech?",
+          "answer": "I’ve researched your company’s focus on AI-driven innovation. I want to contribute to developing intelligent and user-focused systems. Your emphasis on real-world impact and R&D resonates with my project experience. It’s the perfect environment to grow technically while contributing to impactful AI solutions.",
+          "keypoints": ["AI-driven innovation","intelligent systems","real-world impact","R&D","grow technically"]
+        },
+        {
+          "question": "Describe a challenging technical problem you faced and how you solved it.",
+          "answer": "While building the AI Interview Platform, I had difficulty accurately matching candidate resumes with job descriptions. The challenge was creating a meaningful text similarity algorithm. I implemented cosine similarity with TF-IDF and BERT embeddings. The accuracy improved by 32%, and it made resume analysis more context-aware.",
+          "keypoints": ["resume-job matching","text similarity","TF-IDF","BERT embeddings","cosine similarity","+32% accuracy"]
+        },
+        {
+          "question": "How do you stay updated with new technologies/frameworks/tools?",
+          "answer": "I follow YouTube tutorials, Coursera/Great Learning courses, and GitHub repos. I also implement small projects to apply what I learn — for example, after learning about transformers, I built a mini Q&A model using Hugging Face.",
+          "keypoints": ["YouTube","Coursera","GitHub","hands-on projects","transformers","Hugging Face"]
+        },
+        {
+          "question": "Give an example of when you had to collaborate with a non-technical team member.",
+          "answer": "In our team project, I worked with a product manager who focused on UI/UX rather than coding. We had to align AI model outputs with user-friendly dashboards. I simplified technical terms, explained the logic flow visually, and used mock data for clarity. The collaboration resulted in a clean dashboard that clearly communicated AI feedback to users.",
+          "keypoints": ["product manager","UI/UX","simplify technical terms","visual logic","mock data","dashboard"]
+        },
+        {
+          "question": "Tell me about a time you missed a deadline or project target.",
+          "answer": "During our CNN emotion detection phase, the training took longer than planned due to GPU limitations. I communicated early with the team, optimized the dataset, and used pre-trained models. We completed the task with slightly delayed delivery but with higher model accuracy and better documentation.",
+          "keypoints": ["CNN emotion detection","GPU limitations","communicate early","optimize dataset","pre-trained models","improved accuracy"]
+        },
+        {
+          "question": "Have you ever disagreed with a technical decision? How did you handle it?",
+          "answer": "Yes. In one project, a teammate wanted to use rule-based NLP instead of transformer models. I politely presented performance metrics comparing both. We then agreed to hybridize the approach — keeping rules for preprocessing and transformers for deep semantics. It strengthened our teamwork and output.",
+          "keypoints": ["rule-based NLP","transformers","presented metrics","hybrid approach","preprocessing rules","teamwork"]
+        },
+        {
+          "question": "How do you prioritize tasks when you have multiple technical work items?",
+          "answer": "I classify them as critical-path (must for delivery) and enhancement (optional improvements). I use a Trello or Notion board with deadlines and dependencies, which keeps progress transparent and efficient.",
+          "keypoints": ["critical-path","enhancement","Trello","Notion","deadlines","dependencies"]
+        },
+        {
+          "question": "Describe a time you introduced a new tool or process.",
+          "answer": "During backend integration, our testing was manual and repetitive. I suggested Postman collections and Flask test scripts to automate endpoint testing. It reduced bugs by 40% and made version control easier during sprints.",
+          "keypoints": ["manual testing","Postman","Flask tests","automate","reduced bugs 40%","version control"]
+        },
+        {
+          "question": "What’s a mistake you made in a technical project and how did you mitigate it?",
+          "answer": "Initially, I didn’t normalize text before feeding it into our NLP model. Once I realized that inconsistency was affecting accuracy, I added preprocessing steps — lowercasing, lemmatization, and stopword removal. The model’s consistency improved significantly, and I learned the importance of clean data pipelines.",
+          "keypoints": ["no normalization","preprocessing","lowercase","lemmatization","stopwords","clean data"]
+        },
+        {
+          "question": "How do you handle working under pressure or tight timelines?",
+          "answer": "I break complex tasks into smaller deliverables. During our hackathon, I divided tasks — model training, API setup, and frontend integration — across the team and maintained clear daily goals. That approach ensured we met the deadline efficiently.",
+          "keypoints": ["break tasks","small deliverables","divide team","daily goals","meet deadline"]
+        },
+        {
+          "question": "What motivates you in a technical role?",
+          "answer": "Seeing a concept turn into a working product motivates me. When I see my code produce real impact — like evaluating interview responses or predicting emotions — it drives me to learn more and innovate.",
+          "keypoints": ["concept to product","real impact","evaluate responses","predict emotions","innovation"]
+        },
+        {
+          "question": "How do you ensure quality in your work?",
+          "answer": "I follow modular coding and consistent documentation. I test models using validation sets and measure performance metrics like F1-score. I review pull requests and seek feedback from peers before finalizing.",
+          "keypoints": ["modular code","documentation","validation sets","F1-score","code review","peer feedback"]
+        },
+        {
+          "question": "Tell me about a time you had to learn a new technology quickly.",
+          "answer": "For the technical Q&A feature, I had to use transformers and Hugging Face libraries I hadn’t worked with before. I spent 2 days learning from YouTube and documentation, then implemented a small demo. The resulting model successfully handled domain-specific technical questions during interviews.",
+          "keypoints": ["transformers","Hugging Face","2 days","demo","domain Q&A"]
+        },
+        {
+          "question": "Discuss an instance when you took ownership of a project.",
+          "answer": "I led the AI/ML phase of our interview platform — designing models, collecting datasets, and evaluating performance. I handled issues independently but also coordinated with backend and frontend teams. It strengthened my leadership and problem-solving confidence.",
+          "keypoints": ["led AI/ML","designed models","collected datasets","evaluated performance","coordinated teams","leadership"]
+        },
+        {
+          "question": "Where do you see your career in the next 3–5 years?",
+          "answer": "I see myself as an AI Engineer or Data Scientist building intelligent solutions that merge NLP, computer vision, and real-time analytics — just like the systems we’re building today.",
+          "keypoints": ["AI Engineer","Data Scientist","NLP","computer vision","real-time analytics"]
+        },
+        {
+          "question": "How do you handle feedback from peers or mentors?",
+          "answer": "I treat feedback as an opportunity. When my mentor suggested optimizing feature selection instead of adding complexity, I realized efficiency matters as much as accuracy — it made my models faster and cleaner.",
+          "keypoints": ["feedback","feature selection","efficiency","accuracy","performance"]
+        },
+        {
+          "question": "What would you do differently in a past project?",
+          "answer": "I’d spend more time on model interpretability — adding SHAP or LIME to explain AI decisions. That transparency would help non-technical users trust our system better.",
+          "keypoints": ["interpretability","SHAP","LIME","explainability","user trust"]
+        },
+        {
+          "question": "Why are you a good fit for this role?",
+          "answer": "I combine technical depth (AI/ML + NLP + Python) with clear communication and teamwork. I don’t just code — I design, test, and explain systems end-to-end. That balance of technical and human skills makes me a strong fit for technical roles that value both innovation and clarity.",
+          "keypoints": ["AI/ML","NLP","Python","communication","end-to-end","teamwork"]
+        }
+      ],
+      "Technical Interview": [
+        {
+          "question": "What is the difference between AI, ML, and Deep Learning?",
+          "answer": "Artificial Intelligence is a broad field that enables machines to mimic human intelligence. Machine Learning is a subset that focuses on algorithms learning patterns from data, while Deep Learning is a specialized ML branch that uses neural networks for complex pattern recognition.",
+          "keypoints": ["artificial intelligence","machine learning","deep learning","neural networks","subset"]
+        },
+        {
+          "question": "What are the main goals of Artificial Intelligence?",
+          "answer": "The key goals of AI are automation, problem-solving, learning, reasoning, and adapting systems to perform human-like tasks with minimal intervention.",
+          "keypoints": ["automation","problem-solving","learning","reasoning","adaptation"]
+        },
+        {
+          "question": "Explain the concept of intelligent agents in AI.",
+          "answer": "An intelligent agent perceives its environment using sensors and takes actions using actuators to achieve specific objectives or maximize performance.",
+          "keypoints": ["intelligent agent","sensors","actuators","environment","objectives"]
+        },
+        {
+          "question": "What are the different types of AI?",
+          "answer": "There are three types: Narrow AI (specific task-oriented systems), General AI (human-like cognitive ability), and Super AI (beyond human intelligence).",
+          "keypoints": ["narrow AI","general AI","super AI","task-oriented","human-like"]
+        },
+        {
+          "question": "How does a knowledge-based system work?",
+          "answer": "A knowledge-based system contains a knowledge base and an inference engine that apply rules to derive logical conclusions or make decisions.",
+          "keypoints": ["knowledge base","inference engine","rules","logical conclusions","decision"]
+        },
+        {
+          "question": "Explain the difference between supervised and unsupervised AI.",
+          "answer": "Supervised learning trains models with labeled data, while unsupervised learning finds hidden patterns or structures in unlabeled data.",
+          "keypoints": ["supervised learning","unsupervised learning","labeled data","pattern discovery"]
+        },
+        {
+          "question": "What are heuristic functions in AI?",
+          "answer": "A heuristic guides search algorithms toward optimal solutions more efficiently by estimating the best possible move.",
+          "keypoints": ["heuristic","search algorithm","estimate","efficiency","A*"]
+        },
+        {
+          "question": "What is the role of search algorithms in AI?",
+          "answer": "Search algorithms explore possible states or paths to reach a goal efficiently, examples include A*, BFS, and DFS.",
+          "keypoints": ["search algorithms","states","paths","A*","BFS","DFS"]
+        },
+        {
+          "question": "Compare BFS and DFS algorithms.",
+          "answer": "Breadth-First Search explores all nodes level by level and ensures the shortest path, while Depth-First Search dives deep into one branch before backtracking, using less memory.",
+          "keypoints": ["BFS","DFS","shortest path","level-order","backtracking"]
+        },
+        {
+          "question": "What is reinforcement learning?",
+          "answer": "Reinforcement learning enables an agent to learn by interacting with its environment, receiving rewards for correct actions and penalties for wrong ones.",
+          "keypoints": ["reinforcement learning","agent","rewards","penalties","environment"]
+        },
+        {
+          "question": "Explain Markov Decision Processes.",
+          "answer": "An MDP defines decision-making under uncertainty using states, actions, transition probabilities, and rewards to determine optimal policies.",
+          "keypoints": ["MDP","states","actions","transition probabilities","rewards","policy"]
+        },
+        {
+          "question": "What are neural networks?",
+          "answer": "Neural networks are computational models inspired by the human brain that consist of interconnected layers of nodes designed to learn complex relationships from data.",
+          "keypoints": ["neural networks","layers","nodes","learning","brain-inspired"]
+        },
+        {
+          "question": "Explain backpropagation.",
+          "answer": "Backpropagation is the process of adjusting weights in a neural network based on error rates, using gradient descent to minimize prediction errors.",
+          "keypoints": ["backpropagation","weights","gradient descent","error minimization"]
+        },
+        {
+          "question": "What is the difference between ANN, CNN, and RNN?",
+          "answer": "ANNs handle general problems, CNNs are specialized for image and visual data, and RNNs are designed for sequential data such as text or time series.",
+          "keypoints": ["ANN","CNN","RNN","image","sequential","text"]
+        },
+        {
+          "question": "What is the role of activation functions?",
+          "answer": "Activation functions introduce non-linearity, allowing neural networks to learn complex patterns and relationships.",
+          "keypoints": ["activation functions","non-linearity","learn complex patterns"]
+        },
+        {
+          "question": "How does AI handle uncertainty?",
+          "answer": "AI deals with uncertainty through probabilistic models like Bayesian networks and fuzzy logic.",
+          "keypoints": ["uncertainty","probabilistic models","Bayesian networks","fuzzy logic"]
+        },
+        {
+          "question": "Explain NLP in AI.",
+          "answer": "Natural Language Processing allows machines to understand, interpret, and respond to human language effectively.",
+          "keypoints": ["NLP","understand language","interpret","respond","text processing"]
+        },
+        {
+          "question": "What are expert systems?",
+          "answer": "Expert systems replicate human expertise using rule-based reasoning and knowledge bases to solve domain-specific problems.",
+          "keypoints": ["expert systems","rule-based","knowledge base","domain expertise"]
+        },
+        {
+          "question": "What are ethical challenges in AI?",
+          "answer": "Common ethical challenges include algorithmic bias, job displacement, data privacy issues, and accountability for AI decisions.",
+          "keypoints": ["algorithmic bias","job displacement","data privacy","accountability"]
+        },
+        {
+          "question": "How do you evaluate AI performance?",
+          "answer": "AI systems are evaluated using accuracy, precision, recall, F1-score, and other performance metrics depending on the application.",
+          "keypoints": ["accuracy","precision","recall","F1-score","evaluation metrics"]
+        }
+      ]
+    },
+  
+    "data science": {
+      "HR Interview": "SAME_AS_AI_HR", 
+      "Technical Interview": [
+        {
+          "question": "What are the key steps in a data science project lifecycle?",
+          "answer": "The main steps include data collection, cleaning, exploration, feature engineering, model training, evaluation, and deployment for insights or predictions.",
+          "keypoints": ["data collection","cleaning","exploration","feature engineering","model training","deployment"]
+        },
+        {
+          "question": "Why is data cleaning important?",
+          "answer": "Data cleaning removes inconsistencies, missing values, and duplicates to improve accuracy and model performance.",
+          "keypoints": ["data cleaning","missing values","duplicates","accuracy","model performance"]
+        },
+        {
+          "question": "What are the types of data?",
+          "answer": "Data can be structured (rows/columns), semi-structured (JSON, XML), or unstructured (text, audio, images).",
+          "keypoints": ["structured","semi-structured","unstructured","JSON","text"]
+        },
+        {
+          "question": "What are descriptive, predictive, and prescriptive analytics?",
+          "answer": "Descriptive explains what happened, predictive forecasts future outcomes, and prescriptive suggests possible actions.",
+          "keypoints": ["descriptive analytics","predictive analytics","prescriptive analytics","forecast","actions"]
+        },
+        {
+          "question": "What is the difference between mean, median, and mode?",
+          "answer": "Mean is the arithmetic average, median is the middle value, and mode is the most frequently occurring value in a dataset.",
+          "keypoints": ["mean","median","mode","statistic"]
+        },
+        {
+          "question": "How do you handle missing values?",
+          "answer": "Missing data can be handled using imputation (mean, median, mode), deletion, or predictive replacement techniques.",
+          "keypoints": ["imputation","deletion","predictive replacement","mean","median"]
+        },
+        {
+          "question": "What is correlation?",
+          "answer": "Correlation measures the strength of a relationship between two variables, typically using Pearson’s correlation coefficient.",
+          "keypoints": ["correlation","relationship","Pearson"]
+        },
+        {
+          "question": "Explain classification and regression.",
+          "answer": "Classification predicts categorical outputs (like spam/not spam), while regression predicts continuous values (like sales or prices).",
+          "keypoints": ["classification","regression","categorical","continuous"]
+        },
+        {
+          "question": "What is hypothesis testing?",
+          "answer": "Hypothesis testing helps verify assumptions about data using significance tests like t-tests or chi-square tests.",
+          "keypoints": ["hypothesis testing","t-test","chi-square","significance"]
+        },
+        {
+          "question": "What are Type I and II errors?",
+          "answer": "Type I error is a false positive, and Type II error is a false negative, both leading to incorrect conclusions.",
+          "keypoints": ["Type I error","Type II error","false positive","false negative"]
+        },
+        {
+          "question": "What are outliers?",
+          "answer": "Outliers are data points that deviate significantly from other observations and can distort statistical analyses.",
+          "keypoints": ["outliers","deviation","statistical impact"]
+        },
+        {
+          "question": "What is feature engineering?",
+          "answer": "It involves transforming raw data into meaningful features that improve model learning and accuracy.",
+          "keypoints": ["feature engineering","transform","features","accuracy"]
+        },
+        {
+          "question": "How do you evaluate a model?",
+          "answer": "Using metrics such as accuracy, F1-score, ROC-AUC, RMSE, or confusion matrix depending on problem type.",
+          "keypoints": ["accuracy","F1-score","ROC-AUC","RMSE","confusion matrix"]
+        },
+        {
+          "question": "What is overfitting?",
+          "answer": "Overfitting occurs when a model performs well on training data but poorly on unseen data due to memorization.",
+          "keypoints": ["overfitting","training data","generalization","memorization"]
+        },
+        {
+          "question": "What is normalization and standardization?",
+          "answer": "Normalization scales values between 0–1, while standardization adjusts values to have mean 0 and standard deviation 1.",
+          "keypoints": ["normalization","standardization","scale","mean","std"]
+        },
+        {
+          "question": "Why is data visualization important?",
+          "answer": "Visualization simplifies data interpretation and helps uncover hidden patterns or anomalies.",
+          "keypoints": ["visualization","interpretation","patterns","anomalies"]
+        },
+        {
+          "question": "What is PCA?",
+          "answer": "Principal Component Analysis reduces data dimensionality while preserving the most significant variance.",
+          "keypoints": ["PCA","dimensionality reduction","variance"]
+        },
+        {
+          "question": "What are common Python libraries for Data Science?",
+          "answer": "Popular ones include NumPy, Pandas, Scikit-learn, Matplotlib, and TensorFlow.",
+          "keypoints": ["NumPy","Pandas","Scikit-learn","Matplotlib","TensorFlow"]
+        },
+        {
+          "question": "What is cross-validation?",
+          "answer": "Cross-validation splits data into subsets to validate model generalization and avoid overfitting.",
+          "keypoints": ["cross-validation","generalization","folds","avoid overfitting"]
+        },
+        {
+          "question": "What is the difference between correlation and causation?",
+          "answer": "Correlation shows association between variables, while causation means one directly affects the other.",
+          "keypoints": ["correlation","causation","association","cause"]
+        }
+      ]
+    },
+  
+    "cloud computing": {
+      "HR Interview": "SAME_AS_AI_HR",
+      "Technical Interview": [
+        {
+          "question": "What is cloud computing and what are its service models?",
+          "answer": "Cloud computing delivers on-demand computing resources like servers, storage, and databases over the internet.",
+          "keypoints": ["cloud computing","on-demand","servers","storage","databases"]
+        },
+        {
+          "question": "Explain IaaS, PaaS, and SaaS with examples.",
+          "answer": "IaaS provides virtualized resources, PaaS offers development platforms, and SaaS delivers ready-to-use software.",
+          "keypoints": ["IaaS","PaaS","SaaS","virtualized resources","development platforms"]
+        },
+        {
+          "question": "What are the advantages of cloud computing?",
+          "answer": "It offers scalability, cost-efficiency, flexibility, and high availability.",
+          "keypoints": ["scalability","cost-efficiency","flexibility","high availability"]
+        },
+        {
+          "question": "What is virtualization and how does it enable the cloud?",
+          "answer": "Virtualization allows multiple virtual machines to run on one physical machine efficiently.",
+          "keypoints": ["virtualization","virtual machines","physical machine","isolation"]
+        },
+        {
+          "question": "What is serverless computing?",
+          "answer": "Serverless computing automatically manages resources, executing code only when needed.",
+          "keypoints": ["serverless","resource management","event-driven"]
+        },
+        {
+          "question": "Explain public, private, and hybrid clouds.",
+          "answer": "Public clouds are shared, private clouds are dedicated, and hybrid combines both.",
+          "keypoints": ["public cloud","private cloud","hybrid cloud","shared","dedicated"]
+        },
+        {
+          "question": "What is cloud elasticity and scalability?",
+          "answer": "Elasticity scales resources up or down dynamically based on demand.",
+          "keypoints": ["elasticity","scalability","dynamic scaling","demand"]
+        },
+        {
+          "question": "What are containers and how are they different from virtual machines?",
+          "answer": "Containers package applications with dependencies, while VMs emulate full OS environments.",
+          "keypoints": ["containers","VMs","dependencies","OS emulation"]
+        },
+        {
+          "question": "What is Docker and why is it used?",
+          "answer": "Docker simplifies application deployment by using lightweight containers.",
+          "keypoints": ["Docker","containers","deployment","lightweight"]
+        },
+        {
+          "question": "What is Kubernetes?",
+          "answer": "Kubernetes automates container orchestration, scaling, and deployment.",
+          "keypoints": ["Kubernetes","orchestration","scaling","deployment"]
+        },
+        {
+          "question": "What are availability zones and regions in cloud platforms?",
+          "answer": "Availability zones are isolated data centers, regions are geographic areas containing them.",
+          "keypoints": ["availability zones","regions","data centers","geography"]
+        },
+        {
+          "question": "Explain the shared responsibility model in cloud security.",
+          "answer": "Shared responsibility means the provider secures infrastructure, while users secure their applications.",
+          "keypoints": ["shared responsibility","provider","infrastructure","user","applications"]
+        },
+        {
+          "question": "How is data secured in cloud environments?",
+          "answer": "Cloud security involves encryption, identity management, and access control.",
+          "keypoints": ["encryption","identity management","access control","cloud security"]
+        },
+        {
+          "question": "What are common AWS services?",
+          "answer": "AWS offers EC2, S3, Lambda, and RDS among its core services.",
+          "keypoints": ["EC2","S3","Lambda","RDS","AWS"]
+        },
+        {
+          "question": "What is Azure Active Directory?",
+          "answer": "Azure Active Directory handles user identity and access management.",
+          "keypoints": ["Azure AD","identity","access management"]
+        },
+        {
+          "question": "How does cloud billing work (Pay-as-you-go model)?",
+          "answer": "Pay-as-you-go billing charges based on actual resource usage.",
+          "keypoints": ["pay-as-you-go","billing","resource usage","cost"]
+        },
+        {
+          "question": "What are cloud storage types — block, file, and object storage?",
+          "answer": "Block, file, and object storage handle different data types and access patterns.",
+          "keypoints": ["block storage","file storage","object storage","access patterns"]
+        },
+        {
+          "question": "What is load balancing in the cloud?",
+          "answer": "Load balancing distributes traffic across multiple servers to ensure performance.",
+          "keypoints": ["load balancing","distribute traffic","performance"]
+        },
+        {
+          "question": "What is cloud orchestration?",
+          "answer": "Cloud orchestration automates managing complex workloads across environments.",
+          "keypoints": ["cloud orchestration","automation","workloads"]
+        },
+        {
+          "question": "Explain the concept of CDN (Content Delivery Network).",
+          "answer": "CDNs distribute content globally for faster access and reduced latency.",
+          "keypoints": ["CDN","content distribution","latency","global"]
+        }
+      ]
+    },
+  
+    "cyber security": {
+      "HR Interview": "SAME_AS_AI_HR",
+      "Technical Interview": [
+        {
+          "question": "What is the CIA Triad in cybersecurity?",
+          "answer": "The CIA Triad stands for Confidentiality, Integrity, and Availability — the core principles of cybersecurity.",
+          "keypoints": ["confidentiality","integrity","availability","CIA triad"]
+        },
+        {
+          "question": "Explain the difference between symmetric and asymmetric encryption.",
+          "answer": "Symmetric encryption uses one key for encryption and decryption, while asymmetric uses two.",
+          "keypoints": ["symmetric encryption","asymmetric encryption","single key","public/private key"]
+        },
+        {
+          "question": "What is a firewall and how does it work?",
+          "answer": "A firewall monitors and filters incoming and outgoing traffic based on security rules.",
+          "keypoints": ["firewall","filtering","security rules","traffic"]
+        },
+        {
+          "question": "What is a VPN and why is it used?",
+          "answer": "A VPN encrypts internet connections for secure remote access.",
+          "keypoints": ["VPN","encryption","secure access","remote"]
+        },
+        {
+          "question": "What are common types of cyberattacks?",
+          "answer": "Common attacks include phishing, DDoS, ransomware, and malware.",
+          "keypoints": ["phishing","DDoS","ransomware","malware"]
+        },
+        {
+          "question": "What is phishing and how can it be prevented?",
+          "answer": "Phishing tricks users into sharing sensitive data; awareness training prevents it.",
+          "keypoints": ["phishing","sensitive data","awareness training","prevention"]
+        },
+        {
+          "question": "Explain DDoS attacks.",
+          "answer": "DDoS floods a network with traffic, disrupting services.",
+          "keypoints": ["DDoS","traffic flood","service disruption"]
+        },
+        {
+          "question": "What are the differences between hashing and encryption?",
+          "answer": "Hashing creates fixed-length digests, unlike encryption which can be reversed with keys.",
+          "keypoints": ["hashing","encryption","digest","irreversible","reversible"]
+        },
+        {
+          "question": "What are digital signatures and how do they ensure integrity?",
+          "answer": "Digital signatures verify authenticity and ensure data integrity.",
+          "keypoints": ["digital signatures","verify authenticity","integrity"]
+        },
+        {
+          "question": "What is SSL/TTLS and how does HTTPS work?",
+          "answer": "SSL/TLS encrypts communication between client and server for HTTPS.",
+          "keypoints": ["SSL","TLS","HTTPS","encryption","communication"]
+        },
+        {
+          "question": "What is penetration testing?",
+          "answer": "Penetration testing simulates attacks to find system vulnerabilities.",
+          "keypoints": ["penetration testing","simulate attacks","vulnerabilities"]
+        },
+        {
+          "question": "What is two-factor authentication?",
+          "answer": "Two-factor authentication adds an extra verification step beyond passwords.",
+          "keypoints": ["two-factor authentication","2FA","verification step","beyond passwords"]
+        },
+        {
+          "question": "Explain malware, ransomware, and spyware.",
+          "answer": "Malware, ransomware, and spyware damage systems or steal information.",
+          "keypoints": ["malware","ransomware","spyware","damage","steal information"]
+        },
+        {
+          "question": "What is SQL injection?",
+          "answer": "SQL injection exploits poor input validation to manipulate databases.",
+          "keypoints": ["SQL injection","input validation","database manipulation"]
+        },
+        {
+          "question": "What is social engineering in cybersecurity?",
+          "answer": "Social engineering manipulates humans into revealing confidential information.",
+          "keypoints": ["social engineering","manipulate humans","confidential information"]
+        },
+        {
+          "question": "What are common cybersecurity tools?",
+          "answer": "Security tools include Wireshark, Metasploit, and Nessus.",
+          "keypoints": ["Wireshark","Metasploit","Nessus","security tools"]
+        },
+        {
+          "question": "Explain zero-trust security.",
+          "answer": "Zero-trust assumes no implicit trust; every request must be verified.",
+          "keypoints": ["zero-trust","no implicit trust","verify every request"]
+        },
+        {
+          "question": "What is incident response and why is it important?",
+          "answer": "Incident response is the process of managing and mitigating security breaches.",
+          "keypoints": ["incident response","manage breaches","mitigate"]
+        },
+        {
+          "question": "What are security patches and why are they critical?",
+          "answer": "Patching updates software to fix vulnerabilities.",
+          "keypoints": ["patches","fix vulnerabilities","update software"]
+        },
+        {
+          "question": "What’s the difference between IDS and IPS?",
+          "answer": "IDS detects intrusions, IPS prevents them in real time.",
+          "keypoints": ["IDS","IPS","detect","prevent","real-time"]
+        }
+      ]
+    },
+  
+    "iot": {
+      "HR Interview": "SAME_AS_AI_HR",
+      "Technical Interview": [
+        {
+          "question": "What is IoT and how does it work?",
+          "answer": "IoT connects devices to collect and exchange data through the internet.",
+          "keypoints": ["IoT","connect devices","collect data","exchange data","internet"]
+        },
+        {
+          "question": "What are the main components of an IoT system?",
+          "answer": "Its components include sensors, actuators, connectivity, and data processing.",
+          "keypoints": ["sensors","actuators","connectivity","data processing"]
+        },
+        {
+          "question": "What is the difference between IoT and traditional embedded systems?",
+          "answer": "IoT differs from embedded systems by enabling cloud connectivity and analytics.",
+          "keypoints": ["IoT","embedded systems","cloud connectivity","analytics"]
+        },
+        {
+          "question": "What are IoT protocols (MQTT, CoAP, HTTP)?",
+          "answer": "Common protocols include MQTT, CoAP, and HTTP.",
+          "keypoints": ["MQTT","CoAP","HTTP","protocols"]
+        },
+        {
+          "question": "What is edge computing and how does it support IoT?",
+          "answer": "Edge computing processes data near the source to reduce latency.",
+          "keypoints": ["edge computing","process near source","reduce latency"]
+        },
+        {
+          "question": "What are IoT sensors and actuators?",
+          "answer": "Sensors gather data, while actuators perform actions based on it.",
+          "keypoints": ["sensors","actuators","gather data","perform actions"]
+        },
+        {
+          "question": "How does IoT ensure connectivity between devices?",
+          "answer": "IoT uses Wi-Fi, Bluetooth, and cellular for communication.",
+          "keypoints": ["Wi-Fi","Bluetooth","cellular","connectivity"]
+        },
+        {
+          "question": "What is the role of gateways in IoT architecture?",
+          "answer": "Gateways connect local devices to the cloud.",
+          "keypoints": ["gateways","connect devices","cloud"]
+        },
+        {
+          "question": "Explain cloud integration in IoT.",
+          "answer": "Cloud integration stores and analyzes IoT data remotely.",
+          "keypoints": ["cloud integration","store data","analyze data"]
+        },
+        {
+          "question": "What are the security challenges in IoT?",
+          "answer": "IoT faces challenges like security, scalability, and interoperability.",
+          "keypoints": ["security","scalability","interoperability"]
+        },
+        {
+          "question": "What is device provisioning?",
+          "answer": "Device provisioning ensures secure onboarding of devices.",
+          "keypoints": ["device provisioning","secure onboarding"]
+        },
+        {
+          "question": "What are real-time IoT applications?",
+          "answer": "IoT applications include smart homes, healthcare, and logistics.",
+          "keypoints": ["smart homes","healthcare","logistics","real-time"]
+        },
+        {
+          "question": "What is digital twin technology?",
+          "answer": "Digital twins are virtual replicas of physical devices.",
+          "keypoints": ["digital twin","virtual replica","physical device"]
+        },
+        {
+          "question": "What is the difference between smart devices and IoT devices?",
+          "answer": "Smart devices have limited autonomy; IoT devices are connected and data-driven.",
+          "keypoints": ["smart devices","IoT devices","connected","data-driven"]
+        },
+        {
+          "question": "What are communication technologies used in IoT?",
+          "answer": "Technologies like Zigbee, BLE, and LoRa enable IoT communication.",
+          "keypoints": ["Zigbee","BLE","LoRa","communication technologies"]
+        },
+        {
+          "question": "Explain data analytics in IoT.",
+          "answer": "IoT data analytics converts sensor data into actionable insights.",
+          "keypoints": ["data analytics","sensor data","actionable insights"]
+        },
+        {
+          "question": "What are the layers of IoT architecture?",
+          "answer": "IoT architecture includes perception, network, and application layers.",
+          "keypoints": ["perception layer","network layer","application layer"]
+        },
+        {
+          "question": "How is data collected and transmitted securely in IoT?",
+          "answer": "Encryption secures IoT data transmission.",
+          "keypoints": ["encryption","secure transmission"]
+        },
+        {
+          "question": "What are the top IoT platforms used in industry?",
+          "answer": "IoT platforms include AWS IoT Core, Azure IoT Hub, and Google Cloud IoT.",
+          "keypoints": ["AWS IoT Core","Azure IoT Hub","Google Cloud IoT","platforms"]
+        },
+        {
+          "question": "How do IoT and AI work together?",
+          "answer": "AI enhances IoT by enabling intelligent automation and predictive analytics.",
+          "keypoints": ["AI","IoT","automation","predictive analytics"]
+        }
+      ]
+    },
+  
+    "mobile app development": {
+      "HR Interview": "SAME_AS_AI_HR",
+      "Technical Interview": [
+        {
+          "question": "What is the difference between native and hybrid apps?",
+          "answer": "Native apps are built for one OS, while hybrid apps run across multiple platforms.",
+          "keypoints": ["native apps","hybrid apps","single OS","cross-platform"]
+        },
+        {
+          "question": "Explain the mobile app development lifecycle.",
+          "answer": "The development lifecycle includes planning, designing, coding, testing, and deployment.",
+          "keypoints": ["planning","designing","coding","testing","deployment"]
+        },
+        {
+          "question": "What are popular mobile app frameworks?",
+          "answer": "Frameworks like Flutter and React Native speed up cross-platform development.",
+          "keypoints": ["Flutter","React Native","frameworks","cross-platform"]
+        },
+        {
+          "question": "What is an API and how is it used in mobile apps?",
+          "answer": "APIs enable communication between app components and servers.",
+          "keypoints": ["API","communication","app-server"]
+        },
+        {
+          "question": "What is the difference between Android and iOS architectures?",
+          "answer": "Android uses Java/Kotlin, while iOS uses Swift and Objective-C.",
+          "keypoints": ["Android","iOS","Java","Kotlin","Swift","Objective-C"]
+        },
+        {
+          "question": "Explain the MVC or MVVM pattern in app development.",
+          "answer": "MVC and MVVM ensure separation of logic and UI.",
+          "keypoints": ["MVC","MVVM","separation of concerns","UI","logic"]
+        },
+        {
+          "question": "What is Android Activity and Fragment?",
+          "answer": "Activities represent screens; fragments represent reusable UI components.",
+          "keypoints": ["Activity","Fragment","screens","reusable UI"]
+        },
+        {
+          "question": "What is an Intent in Android?",
+          "answer": "An Intent enables communication between Android components.",
+          "keypoints": ["Intent","communication","Android components"]
+        },
+        {
+          "question": "What is Swift used for?",
+          "answer": "Swift is Apple’s programming language for iOS development.",
+          "keypoints": ["Swift","iOS","programming language"]
+        },
+        {
+          "question": "How do you handle app data persistence?",
+          "answer": "Data persistence is managed using SQLite, Room, or Core Data.",
+          "keypoints": ["SQLite","Room","Core Data","persistence"]
+        },
+        {
+          "question": "What are push notifications and how are they implemented?",
+          "answer": "Push notifications deliver real-time updates to users.",
+          "keypoints": ["push notifications","real-time","implementation"]
+        },
+        {
+          "question": "What is Firebase and how is it used in mobile apps?",
+          "answer": "Firebase supports authentication, databases, and cloud messaging.",
+          "keypoints": ["Firebase","authentication","database","cloud messaging"]
+        },
+        {
+          "question": "What is app sandboxing and why is it important?",
+          "answer": "Sandboxing isolates apps for security.",
+          "keypoints": ["sandboxing","isolation","security"]
+        },
+        {
+          "question": "What is the difference between synchronous and asynchronous programming?",
+          "answer": "Synchronous blocks execution until completion; asynchronous allows non-blocking operations.",
+          "keypoints": ["synchronous","asynchronous","blocking","non-blocking"]
+        },
+        {
+          "question": "How do you ensure security in mobile apps?",
+          "answer": "App security involves encryption, validation, and secure APIs.",
+          "keypoints": ["encryption","input validation","secure APIs"]
+        },
+        {
+          "question": "What is an APK or IPA file?",
+          "answer": "APK and IPA are packaging formats for Android and iOS apps.",
+          "keypoints": ["APK","IPA","packaging formats"]
+        },
+        {
+          "question": "How do you test and debug mobile applications?",
+          "answer": "Debugging uses tools like Android Studio and Xcode.",
+          "keypoints": ["Android Studio","Xcode","debugging"]
+        },
+        {
+          "question": "What is the difference between front-end and back-end in mobile apps?",
+          "answer": "Frontend handles UI, backend handles databases and APIs.",
+          "keypoints": ["frontend","backend","UI","databases","APIs"]
+        },
+        {
+          "question": "What are some best practices for UI/UX in mobile apps?",
+          "answer": "Good UI/UX ensures usability and user satisfaction.",
+          "keypoints": ["usability","user satisfaction","UI/UX best practices"]
+        },
+        {
+          "question": "How do you publish an app to Google Play Store or App Store?",
+          "answer": "Apps are published via Google Play Console or Apple App Store.",
+          "keypoints": ["Google Play Console","Apple App Store","publish"]
+        }
+      ]
+    }
+  }
+  
