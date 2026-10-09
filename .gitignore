@@ -11,3 +11,9 @@ client/dist/
 .idea/
 .vscode/
 *.bak
+
+# Uploaded resumes and private documents
+server/uploads/
+
+# Uploaded resumes and private documents
+server/uploads/
